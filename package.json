@@ -1,0 +1,14 @@
+{
+  "name": "longest-consecutive-character",
+  "version": "1.0.0",
+  "description": "String manipulation problem",
+  "repository": "https://github.com/data-structure-practice/longest-consecutive-character",
+  "author": "Aspen James",
+  "scripts": {
+    "test": "mocha"
+  },
+  "dependencies": {
+    "expect.js": "^0.3.1",
+    "mocha": "^6.2.0"
+  }
+}
