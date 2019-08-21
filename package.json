@@ -4,6 +4,7 @@
   "description": "String manipulation problem",
   "repository": "https://github.com/data-structure-practice/longest-consecutive-character",
   "author": "Aspen James",
+  "license": "GPL-3",
   "scripts": {
     "test": "mocha"
   },
